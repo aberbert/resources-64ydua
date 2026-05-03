@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aberbert.github.io/resources-64ydua/sitemap.xml
